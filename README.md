@@ -1,6 +1,17 @@
 - 👋 Hi, I’m @Mercelot
 - 👀 I’m interested in guitar, programming, video games, powerlifting, the sea, food and adventure!
-- 🌱 I’m currently a Full Stack Developer with professional experience in PHP, Symfony, JavaScript, HTML SASS and SQL. My portfolio includes all these languages and C# Asp.Net. 
+- 🌱 I’m currently a Full Stack Developer with professional experience in...
+- 
+-  PHP 
+-  Symfony 
+-  Next.JS
+-  React
+-  Typescript 
+-  HTML
+-  SCSS
+-  C#
+-  SQL
+
 - 📫 How to reach me... You can reach me via instagram @ shamonou :) 
 
 <!---
