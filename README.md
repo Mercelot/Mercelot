@@ -10,6 +10,7 @@
 -  HTML
 -  SCSS
 -  C#
+-  Python
 -  SQL
 -
 - 📫 How to reach me... You can reach me via instagram @ shamonou :) 
