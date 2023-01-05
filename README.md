@@ -8,10 +8,10 @@
 -  React
 -  Typescript 
 -  HTML
--  SCSS
+-  SASS
 -  C#
--  Python
 -  SQL
+-  EDGEQL
 -
 - 📫 How to reach me... You can reach me via instagram @ shamonou :) 
 
