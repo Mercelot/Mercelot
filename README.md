@@ -6,12 +6,12 @@
 -  Symfony 
 -  Next.JS
 -  React
--  Typescript 
+-  JavaScript
+-  TypeScript 
 -  HTML
 -  SASS
 -  C#
 -  SQL
--  EDGEQL
 -
 - 📫 How to reach me... You can reach me via instagram @ shamonou :) 
 
